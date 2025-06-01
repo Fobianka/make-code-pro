@@ -1,38 +1,196 @@
-.App {
-  text-align: center;
+html {
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+a {
+  text-decoration: none;
+  color: inherit;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+img {
+  display: block;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: #fff;
+  height: 70px;
+  color: #222;
+  display: flex;
+  border-bottom: 2px solid darkslateblue;
+  justify-content: space-between;
+  gap: 15px;
+  align-items: center;
+  padding: 10px;
+}
+
+.header img {
+  width: 65px;
+}
+
+.header input {
+  max-width: 500px;
+  width: 100%;
+  height: 30px;
+  border: 1px solid darkslateblue;
+  border-radius: 8px;
+  padding: 0 10px;
+}
+
+.menu-btn-wrapper {
+  position: relative;
+}
+
+.circle {
+  top: -2px;
+  left: -6px;
+  width: 10px;
+  height: 10px;
+  background-color: #ed4407;
+  border-radius: 50%;
+  margin-right: -50px;
+  position: absolute;
+}
+
+.navbar {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.navbar div {
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+  padding: 15px;
+}
+
+.navbar div:hover,
+.navbar div:active,
+.navbar div:focus,
+.navbar .active {
+  background-color: #cfc6dfcd;
+  color: #541d7f;
+}
+
+.navbar-priceBlock h4,
+.navbar-brendsBlock h4 {
+  padding-top: 15px;
+  color: #541d7f;
+  margin-bottom: 10px;
+}
+
+.menu-btn {
+  font-size: 35px;
+  color: darkslateblue;
+  cursor: pointer;
+  transition: transform 0.3s ease-in;
+}
+
+.menu-btn:hover {
+  transform: scale(1.1);
+}
+
+.header-basket-box,
+.favorite-box-wrap {
+  position: relative;
+}
+
+.basket-num,
+.favorite-num {
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  top: -11px;
+  right: 0;
+  color: #ed4407;
+}
+
+.cards-list {
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  gap: 10px;
+  background-color: #fff;
+  max-width: 300px;
+  width: 100%;
+  height: 400px;
+  margin: 20px;
+  padding: 10px 10px 20px 10px;
+  -webkit-box-shadow: 3px 6px 20px -5px #7e6888;
+  box-shadow: 3px 6px 20px -5px #7e6888;
+  border-radius: 5px;
+}
+
+.card img {
+  width: 90%;
+  height: 75%;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+.card h3 {
+  color: darkslateblue;
+  margin: 5px 0;
+  font-size: 18px;
+}
+
+.card-box {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-box b {
+  display: block;
+  margin-top: 7px;
+}
+
+.card-icons {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.favorite-icon,
+.card-basket {
+  font-size: 28px;
+  color: #897a80;
+  cursor: pointer;
+  transition: color 0.3s ease-in;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.favorite-icon:hover,
+.favorite-icon:focus,
+.favorite-icon.active,
+.card-basket:hover,
+.card-basket:focus {
+  color: #97516f;
+}
+
+.favorite-icon.active,
+.card-basket.active {
+  color: #d2015c;
 }

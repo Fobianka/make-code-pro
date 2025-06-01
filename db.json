@@ -1,0 +1,468 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "samsung",
+      "name": "Sumsung s25",
+      "price": 350,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://best-magazin.com/image/cache/catalog/Samsung/GalaxyS/S25Ultra/SilverBlue/jhtrddj-800x800.png"
+    },
+    {
+      "id": 2,
+      "brand": "apple",
+      "name": "iPhone 16",
+      "price": 470,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://twigo.ru/center/iblock/c97/xi36f6qtwroilvzq7cj4b35g4xufim1f/zelenyy-16-plyus.png"
+    },
+    {
+      "id": 3,
+      "brand": "hp",
+      "name": "HP EliteBook 830 G10",
+      "price": 1300,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://3logic.ru/pimg/pim/regular/1467805.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "samsung",
+      "name": "Samsung ViewFinity S9 S90PC",
+      "price": 1180,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://img.mvideo.ru/Big/30069595bb.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Huawei",
+      "name": "Huawei MateView 34",
+      "price": 360,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 3,
+      "quantity": 1,
+      "img": "https://s3.e2e4.ru/imgproxy/3387747"
+    },
+    {
+      "id": 6,
+      "brand": "microsoft",
+      "name": "Microsoft Surface Laptop Go 3",
+      "price": 840,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7105832568.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "msi",
+      "name": "MSI GF75 Thin",
+      "price": 3300,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://ir.ozone.ru/s3/multimedia-a/wc1000/6450582886.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "motorola",
+      "name": "Motorola Edge 50 Ultra",
+      "price": 250,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://cdn.3dnews.ru/assets/external/illustrations/2024/04/16/1103361/moto1.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "samsung",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 760,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://avatars.mds.yandex.net/get-mpic/12418417/img_id6080327121564249554.png/optimize"
+    },
+    {
+      "id": 10,
+      "brand": "asus",
+      "name": "ASUS ROG Swift PG27AQDP",
+      "price": 1540,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://cdn.4k-monitor.ru/upload/resize_cache/iblock/63f/700_700_1/r1xt41w1xy3srhbmy45bogw31ctfqdi0.webp"
+    },
+    {
+      "id": 11,
+      "brand": "sony",
+      "name": "Sony INZONE M10S",
+      "price": 3000,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://cdn.4k-monitor.ru/upload/resize_cache/iblock/fbf/700_700_1/n1m1eamzmvcdlg1kggt8tgo43zixn4lb.webp"
+    },
+    {
+      "id": 12,
+      "brand": "gigabyte",
+      "name": "GIGABYTE G5 KF 15.6\"",
+      "price": 1150,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://avatars.mds.yandex.net/get-mpic/10352132/2a000001924aaff32f165acd9dffe6301e69/optimize"
+    },
+    {
+      "id": 13,
+      "brand": "lenovo",
+      "name": "Lenovo V15 G2 IJL",
+      "price": 260,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 3,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/56dc2eceaea38e5a68ea4aa9c34cfbae/2bc0f018a78836d2381a96179a23e8d26b622a5200b0fd5c0f64cac153c83e1e.jpg.webp"
+    },
+    {
+      "id": 14,
+      "brand": "acer",
+      "name": "Acer Aspire 3 A315-510P-P2PL",
+      "price": 300,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/2b097adfe5e563ac46f35ced421f90d9/e71ffed1167151fae8b8cabb15d9eadd57db5c39f5469ab5fe9dee21797348c2.jpg.webp"
+    },
+    {
+      "id": 15,
+      "brand": "asus",
+      "name": "ASUS ExpertBook B1502CGA-BQ0377",
+      "price": 380,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/wm/0/0/33d167bc9569abe7b684c15d1a6162f9/8b16641a34438a13e522b551086c8861c2da6130219b747d1b7fc1f36cb7eb62.jpg.webp"
+    },
+    {
+      "id": 16,
+      "brand": "viewsonic",
+      "name": "ViewSonic VA2406-H",
+      "price": 80,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/2e7b576d97bcaf31fb407974861c8a3b/85cc757778f321b5d4c7e371786bdb0fc9431687ad0131063bc531ac4543d64e.jpg.webp"
+    },
+    {
+      "id": 17,
+      "brand": "lg",
+      "name": "LG 24MR400-B",
+      "price": 86,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/91ff5246fa25f9f01332c3cb21a98425/073671f3a192e2b1b2c8917587db8bdcc9b92d27bcf675e172a9596ee05b6a8e.jpg.webp"
+    },
+    {
+      "id": 18,
+      "brand": "msi",
+      "name": "MSI PRO MP273A",
+      "price": 120,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/a604a931707f5fb7c0b8a03aea7de0a2/82c2d43b630fc88f683bd089da354380cc6012ee2086ca208640025ac720b670.jpg.webp"
+    },
+    {
+      "id": 19,
+      "brand": "huawei",
+      "name": "HUAWEI nova Y72S",
+      "price": 140,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/c848496b73655096d8e32d9e19230530/6d40c97b682f5bec507b30b47c9dd22e52f5770a23f0d217daef8fcd168a80d5.jpg.webp"
+    },
+    {
+      "id": 20,
+      "brand": "motorola",
+      "name": "Motorola Moto G55",
+      "price": 180,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/47551f100e0ce5f3fc76cc085f72f104/818869be182d74294ac028a3e8fc441a2d528b76a9a93aea673b68a8b66d0608.jpg.webp"
+    },
+    {
+      "id": 21,
+      "brand": "realme",
+      "name": "realme 14T",
+      "price": 200,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/8881a412aa269b84ad321be93b49ffb9/a64303712aac6a8acbc3be1b3bef42f8a265b87a237066ca7458d186410cd559.jpg.webp"
+    },
+    {
+      "id": 22,
+      "brand": "google",
+      "name": "Google Pixel 8",
+      "price": 560,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/0/0/b7edde4989b9d2804d572756dfb26273/485a410ba71c5e4bac142f6bb5c6a65a34f07f5aaede590afcb00000e9d41f34.jpg.webp"
+    },
+    {
+      "brand": "xiaomi",
+      "name": "Смартфон Xiaomi Redmi A5",
+      "price": "650",
+      "category": "phone",
+      "description": "Стильный смартфон с большим экраном с частотой 120 Гц. Устройство оснащено ярким и чётким IPS-дисплеем с диагональю 6,88 дюймов и разрешением 1640x720 пикселей",
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/286c9d66747aa8d877cbc79280894bc4/4dbe9ce39b51740ab5b3d9b8dc7d35af8d8bb1268be8713526842e498494bd51.jpg.webp",
+      "rating": 1,
+      "quantity": 1,
+      "id": 23
+    }
+  ],
+  "favorites": [
+    {
+      "id": 10,
+      "brand": "asus",
+      "name": "ASUS ROG Swift PG27AQDP",
+      "price": 1540,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://cdn.4k-monitor.ru/upload/resize_cache/iblock/63f/700_700_1/r1xt41w1xy3srhbmy45bogw31ctfqdi0.webp"
+    },
+    {
+      "id": 11,
+      "brand": "sony",
+      "name": "Sony INZONE M10S",
+      "price": 3000,
+      "category": "monitor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://cdn.4k-monitor.ru/upload/resize_cache/iblock/fbf/700_700_1/n1m1eamzmvcdlg1kggt8tgo43zixn4lb.webp"
+    },
+    {
+      "id": 20,
+      "brand": "motorola",
+      "name": "Motorola Moto G55",
+      "price": 180,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/47551f100e0ce5f3fc76cc085f72f104/818869be182d74294ac028a3e8fc441a2d528b76a9a93aea673b68a8b66d0608.jpg.webp"
+    }
+  ],
+  "cart": [
+    {
+      "id": 6,
+      "brand": "microsoft",
+      "name": "Microsoft Surface Laptop Go 3",
+      "price": 840,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://ir.ozone.ru/s3/multimedia-1-0/wc1000/7105832568.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "gigabyte",
+      "name": "GIGABYTE G5 KF 15.6\"",
+      "price": 1150,
+      "category": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 5,
+      "quantity": 1,
+      "img": "https://avatars.mds.yandex.net/get-mpic/10352132/2a000001924aaff32f165acd9dffe6301e69/optimize"
+    },
+    {
+      "brand": "xiaomi",
+      "name": "Смартфон Xiaomi Redmi A5",
+      "price": "650",
+      "category": "phone",
+      "description": "Стильный смартфон с большим экраном с частотой 120 Гц. Устройство оснащено ярким и чётким IPS-дисплеем с диагональю 6,88 дюймов и разрешением 1640x720 пикселей",
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/286c9d66747aa8d877cbc79280894bc4/4dbe9ce39b51740ab5b3d9b8dc7d35af8d8bb1268be8713526842e498494bd51.jpg.webp",
+      "rating": 1,
+      "quantity": 1,
+      "id": 23
+    },
+    {
+      "id": 21,
+      "brand": "realme",
+      "name": "realme 14T",
+      "price": 200,
+      "category": "phone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias  officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+      "rating": 4,
+      "quantity": 1,
+      "img": "https://c.dns-shop.ru/thumb/st1/fit/0/0/8881a412aa269b84ad321be93b49ffb9/a64303712aac6a8acbc3be1b3bef42f8a265b87a237066ca7458d186410cd559.jpg.webp"
+    }
+  ],
+  "comments": [
+    {
+      "userName": "Anna",
+      "userText": "dyujtutueu",
+      "productId": 2,
+      "date": "22.05.2025, 10:09:41",
+      "id": 1
+    },
+    {
+      "userName": "tjnsrt",
+      "userText": "xjtjtrkdtk",
+      "productId": 2,
+      "date": "22.05.2025, 10:16:44",
+      "id": 2
+    },
+    {
+      "userName": "Anna",
+      "userText": "ввапраов",
+      "productId": 5,
+      "date": "22.05.2025, 19:47:21",
+      "id": 3
+    },
+    {
+      "userName": "Anna",
+      "userText": "nstntnmdt",
+      "productId": 5,
+      "date": "22.05.2025, 19:58:06",
+      "id": 4
+    },
+    {
+      "userName": "tjnsrt",
+      "userText": "yj56wj",
+      "productId": 5,
+      "date": "22.05.2025, 20:02:40",
+      "id": 5
+    },
+    {
+      "userName": "elena",
+      "userText": "comment",
+      "productId": 2,
+      "date": "22.05.2025, 20:54:36",
+      "id": 6
+    },
+    {
+      "userName": "elena",
+      "userText": "comment",
+      "productId": 2,
+      "date": "22.05.2025, 20:56:05",
+      "id": 7
+    },
+    {
+      "userName": "uriy",
+      "userText": "second",
+      "productId": 2,
+      "date": "22.05.2025, 20:58:30",
+      "id": 8
+    },
+    {
+      "userName": "tjnsrt",
+      "userText": "laptop",
+      "productId": 7,
+      "date": "22.05.2025, 21:04:26",
+      "id": 9
+    },
+    {
+      "userName": "rtk query",
+      "userText": "test comment",
+      "productId": 6,
+      "date": "30.05.2025, 15:52:49",
+      "id": 10
+    },
+    {
+      "userName": "rtk query 2",
+      "userText": "test comment2",
+      "productId": 6,
+      "date": "30.05.2025, 16:03:18",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "login": "Fobianka",
+      "password": "jhjdh7G",
+      "name": "fobia",
+      "phone": "475567",
+      "id": 1
+    },
+    {
+      "login": "lvam_admin",
+      "password": "ghgjfgjf6D",
+      "name": "Лена",
+      "phone": "15432457",
+      "id": 2
+    },
+    {
+      "login": "registration",
+      "password": "8gjdh7G",
+      "name": "test",
+      "phone": "5622381122",
+      "id": 3
+    },
+    {
+      "login": "zerkalo_admin",
+      "password": "yjythsje2D",
+      "name": "Лена",
+      "phone": "5499269",
+      "id": 4
+    },
+    {
+      "login": "loginTest",
+      "password": "gdfa3dfR",
+      "name": "Лена",
+      "phone": "55555555",
+      "id": 5
+    }
+  ],
+  "brands": [
+    "apple",
+    "samsung",
+    "realme",
+    "xiaomi",
+    "gigabyte",
+    "microsoft",
+    "asus",
+    "sony",
+    "google",
+    "motorola",
+    "huawei",
+    "hp"
+  ]
+}

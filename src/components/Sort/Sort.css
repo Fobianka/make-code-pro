@@ -1,0 +1,16 @@
+.sort {
+  padding-top: 30px;
+  margin-left: 40px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sort span {
+  margin-right: 20px;
+  padding-bottom: 5px;
+  cursor: pointer;
+}
+
+.sort .sortActive {
+  text-shadow: -3px 4px 16px rgba(114, 36, 202, 0.83);
+}
